@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the type drop-down Spinner -->
+    <string-array name="array_fruit_options">
+        <item>@string/NOTSELECTED</item>
+        <item>@string/apple</item>
+        <item>@string/banana</item>
+        <item>@string/peach</item>
+        <item>@string/pineapple</item>
+        <item>@string/strawberry</item>
+        <item>@string/watermelon</item>
+    </string-array>
+</resources>

@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">FruitShop</string>
+    <string name="empty_view_title_text">The Store is Empty</string>
+    <string name="empty_view_subtitle_text">Maybe it is time to contact your suppliers</string>
+    <string name="category_overview">Fruit Details</string>
+    <string name="editor_activity_title">Add Fruit</string>
+    <string name="editor_options_title">Options</string>
+
+    <string name="hintprice">Insert Price per Piece</string>
+    <string name="hintquanity">Insert Quantity in the stock</string>
+    <string name="hintsupplier">Insert supplier E-mail</string>
+
+    <string name="category_types">Type of Fruit</string>
+    <string name="NOTSELECTED">NOT SELECTED</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="peach">Peach</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="watermelon">Watermelon</string>
+
+    <!-- Title for the activity to add a new fruit [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_fruit">Add a Fruit</string>
+
+    <string name="wrong_email_type">ATTENTION: The mail provided might not be correct!</string>
+    <string name="wrong_int_type">Quantity and Price must be Numbers</string>
+    <string name="empty_field">The fields cannot be empty</string>
+    <string name="price_field">price cannot be empty</string>
+    <string name="quantity_field">quantity cannot be empty</string>
+    <string name="supplier_field">supplier cannot be empty</string>
+    <string name="type_field">Select a type</string>
+    <string name="add_picure">Add a picture</string>
+    <string name="no_integer">You must insert an integer</string>
+
+    <!-- Title for the activity to edit an existing fruit [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_fruit">Edit Fruit</string>
+
+    <!-- Toast message in editor when current fruit was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_fruit_successful">Fruit updated</string>
+
+    <!-- Toast message in editor when current fruit has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_fruit_failed">Error with updating fruit</string>
+
+    <!-- Toast message in editor when new fruit has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_fruit_successful">Fruit saved</string>
+
+    <!-- Toast message in editor when new fruit has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_fruit_failed">Error with saving fruit</string>
+
+    <!-- Label for editor overflow menu option that deletes the current fruit [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for editor menu option to save fruit and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current fruit [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current fruit was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_fruit_successful">Fruitdeleted</string>
+
+    <!-- Toast message in editor when current fruit has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_fruit_failed">Error with deleting fruit</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current fruit [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this fruit?</string>
+
+    <!-- Label for overflow menu option that inserts fake fruit data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all fruit data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Fruits</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current fruit [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current fruit [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+</resources>
